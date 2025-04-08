@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 Lectures on Missing Semester</title>
+    <link>http://localhost:1313/2020/</link>
+    <description>Recent content in 2020 Lectures on Missing Semester</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Q&amp;A</title>
+      <link>http://localhost:1313/2020/qa/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/qa/</guid>
+      <description>&lt;p&gt;For the last lecture, we answered questions that the students submitted:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#any-recommendations-on-learning-operating-systems-related-topics-like-processes-virtual-memory-interrupts-memory-management-etc&#34;&gt;Any recommendations on learning Operating Systems related topics like processes, virtual memory, interrupts, memory management, etc &lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-are-some-of-the-tools-youd-prioritize-learning-first&#34;&gt;What are some of the tools you&amp;rsquo;d prioritize learning first?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#when-do-i-use-python-versus-a-bash-scripts-versus-some-other-language&#34;&gt;When do I use Python versus a Bash scripts versus some other language?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-is-the-difference-between-source-scriptsh-and-scriptsh&#34;&gt;What is the difference between &lt;code&gt;source script.sh&lt;/code&gt; and &lt;code&gt;./script.sh&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-are-the-places-where-various-packages-and-tools-are-stored-and-how-does-referencing-them-work-what-even-is-bin-or-lib&#34;&gt;What are the places where various packages and tools are stored and how does referencing them work? What even is &lt;code&gt;/bin&lt;/code&gt; or &lt;code&gt;/lib&lt;/code&gt;?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#should-i-apt-get-install-a-python-whatever-or-pip-install-whatever-package&#34;&gt;Should I &lt;code&gt;apt-get install&lt;/code&gt; a python-whatever, or &lt;code&gt;pip install&lt;/code&gt; whatever package?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#whats-the-easiest-and-best-profiling-tools-to-use-to-improve-performance-of-my-code&#34;&gt;What&amp;rsquo;s the easiest and best profiling tools to use to improve performance of my code?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-browser-plugins-do-you-use&#34;&gt;What browser plugins do you use?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-are-other-useful-data-wrangling-tools&#34;&gt;What are other useful data wrangling tools?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-is-the-difference-between-docker-and-a-virtual-machine&#34;&gt;What is the difference between Docker and a Virtual Machine?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-are-the-advantages-and-disadvantages-of-each-os-and-how-can-we-choose-between-them-eg-choosing-the-best-linux-distribution-for-our-purposes&#34;&gt;What are the advantages and disadvantages of each OS and how can we choose between them (e.g. choosing the best Linux distribution for our purposes)?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#vim-vs-emacs&#34;&gt;Vim vs Emacs?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#any-tips-or-tricks-for-machine-learning-applications&#34;&gt;Any tips or tricks for Machine Learning applications?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#any-more-vim-tips&#34;&gt;Any more Vim tips?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-is-2fa-and-why-should-i-use-it&#34;&gt;What is 2FA and why should I use it?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#any-comments-on-differences-between-web-browsers&#34;&gt;Any comments on differences between web browsers?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;any-recommendations-on-learning-operating-systems-related-topics-like-processes-virtual-memory-interrupts-memory-management-etc&#34;&gt;Any recommendations on learning Operating Systems related topics like processes, virtual memory, interrupts, memory management, etc&lt;/h2&gt;&#xA;&lt;p&gt;First, it is unclear whether you actually need to be very familiar with all of these topics since they are very low level topics.&#xA;They will matter as you start writing more low level code like implementing or modifying a kernel. Otherwise, most topics will not be relevant, with the exception of processes and signals that were briefly covered in other lectures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Potpourri</title>
+      <link>http://localhost:1313/2020/potpourri/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/potpourri/</guid>
+      <description>&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#keyboard-remapping&#34;&gt;Keyboard remapping&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#daemons&#34;&gt;Daemons&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#fuse&#34;&gt;FUSE&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#backups&#34;&gt;Backups&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#apis&#34;&gt;APIs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#common-command-line-flagspatterns&#34;&gt;Common command-line flags/patterns&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#window-managers&#34;&gt;Window managers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#vpns&#34;&gt;VPNs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#markdown&#34;&gt;Markdown&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#hammerspoon-desktop-automation-on-macos&#34;&gt;Hammerspoon (desktop automation on macOS)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#booting--live-usbs&#34;&gt;Booting + Live USBs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#docker-vagrant-vms-cloud-openstack&#34;&gt;Docker, Vagrant, VMs, Cloud, OpenStack&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#notebook-programming&#34;&gt;Notebook programming&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#github&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;keyboard-remapping&#34;&gt;Keyboard remapping&lt;/h2&gt;&#xA;&lt;p&gt;As a programmer, your keyboard is your main input method. As with pretty much anything in your computer, it is configurable (and worth configuring).&lt;/p&gt;&#xA;&lt;p&gt;The most basic change is to remap keys.&#xA;This usually involves some software that is listening and, whenever a certain key is pressed, it intercepts that event and replaces it with another event corresponding to a different key. Some examples:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security and Cryptography</title>
+      <link>http://localhost:1313/2020/security/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/security/</guid>
+      <description>&lt;p&gt;Last year&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/2019/security/&#34;&gt;security and privacy lecture&lt;/a&gt; focused on how you&#xA;can be more secure as a computer &lt;em&gt;user&lt;/em&gt;. This year, we will focus on security&#xA;and cryptography concepts that are relevant in understanding tools covered&#xA;earlier in this class, such as the use of hash functions in Git or key&#xA;derivation functions and symmetric/asymmetric cryptosystems in SSH.&lt;/p&gt;&#xA;&lt;p&gt;This lecture is not a substitute for a more rigorous and complete course on&#xA;computer systems security (&lt;a href=&#34;https://css.csail.mit.edu/6.858/&#34;&gt;6.858&lt;/a&gt;) or&#xA;cryptography (&lt;a href=&#34;https://courses.csail.mit.edu/6.857/&#34;&gt;6.857&lt;/a&gt; and 6.875). Don&amp;rsquo;t&#xA;do security work without formal training in security. Unless you&amp;rsquo;re an expert,&#xA;don&amp;rsquo;t &lt;a href=&#34;https://www.schneier.com/blog/archives/2015/05/amateurs_produc.html&#34;&gt;roll your own&#xA;crypto&lt;/a&gt;.&#xA;The same principle applies to systems security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metaprogramming</title>
+      <link>http://localhost:1313/2020/metaprogramming/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/metaprogramming/</guid>
+      <description>&lt;p&gt;What do we mean by &amp;ldquo;metaprogramming&amp;rdquo;? Well, it was the best collective&#xA;term we could come up with for the set of things that are more about&#xA;&lt;em&gt;process&lt;/em&gt; than they are about writing code or working more efficiently.&#xA;In this lecture, we will look at systems for building and testing your&#xA;code, and for managing dependencies. These may seem like they are of&#xA;limited importance in your day-to-day as a student, but the moment you&#xA;interact with a larger code base through an internship or once you enter&#xA;the &amp;ldquo;real world&amp;rdquo;, you will see this everywhere. We should note that&#xA;&amp;ldquo;metaprogramming&amp;rdquo; can also mean &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Metaprogramming&#34;&gt;programs that operate on&#xA;programs&lt;/a&gt;&amp;rdquo;, whereas that&#xA;is not quite the definition we are using for the purposes of this&#xA;lecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debugging and Profiling</title>
+      <link>http://localhost:1313/2020/debugging-profiling/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/debugging-profiling/</guid>
+      <description>&lt;p&gt;A golden rule in programming is that code does not do what you expect it to do, but what you tell it to do.&#xA;Bridging that gap can sometimes be a quite difficult feat.&#xA;In this lecture we are going to cover useful techniques for dealing with buggy and resource hungry code: debugging and profiling.&lt;/p&gt;&#xA;&lt;h1 id=&#34;debugging&#34;&gt;Debugging&lt;/h1&gt;&#xA;&lt;h2 id=&#34;printf-debugging-and-logging&#34;&gt;Printf debugging and Logging&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;The most effective debugging tool is still careful thought, coupled with judiciously placed print statements&amp;rdquo; — Brian Kernighan, &lt;em&gt;Unix for Beginners&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Version Control (Git)</title>
+      <link>http://localhost:1313/2020/version-control/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/version-control/</guid>
+      <description>&lt;p&gt;Version control systems (VCSs) are tools used to track changes to source code&#xA;(or other collections of files and folders). As the name implies, these tools&#xA;help maintain a history of changes; furthermore, they facilitate collaboration.&#xA;VCSs track changes to a folder and its contents in a series of snapshots, where&#xA;each snapshot encapsulates the entire state of files/folders within a top-level&#xA;directory. VCSs also maintain metadata like who created each snapshot, messages&#xA;associated with each snapshot, and so on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Command-line Environment</title>
+      <link>http://localhost:1313/2020/command-line/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/command-line/</guid>
+      <description>&lt;p&gt;In this lecture we will go through several ways in which you can improve your workflow when using the shell. We have been working with the shell for a while now, but we have mainly focused on executing different commands. We will now see how to run several processes at the same time while keeping track of them, how to stop or pause a specific process and how to make a process run in the background.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Wrangling</title>
+      <link>http://localhost:1313/2020/data-wrangling/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/data-wrangling/</guid>
+      <description>&lt;p&gt;Have you ever wanted to take data in one format and turn it into a&#xA;different format? Of course you have! That, in very general terms, is&#xA;what this lecture is all about. Specifically, massaging data, whether in&#xA;text or binary format, until you end up with exactly what you wanted.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve already seen some basic data wrangling in past lectures. Pretty&#xA;much any time you use the &lt;code&gt;|&lt;/code&gt; operator, you are performing some kind of&#xA;data wrangling. Consider a command like &lt;code&gt;journalctl | grep -i intel&lt;/code&gt;. It&#xA;finds all system log entries that mention Intel (case insensitive). You&#xA;may not think of it as wrangling data, but it is going from one format&#xA;(your entire system log) to a format that is more useful to you (just&#xA;the intel log entries). Most data wrangling is about knowing what tools&#xA;you have at your disposal, and how to combine them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Editors (Vim)</title>
+      <link>http://localhost:1313/2020/editors/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/editors/</guid>
+      <description>&lt;p&gt;Writing English words and writing code are very different activities. When&#xA;programming, you spend more time switching files, reading, navigating, and&#xA;editing code compared to writing a long stream. It makes sense that there are&#xA;different types of programs for writing English words versus code (e.g.&#xA;Microsoft Word versus Visual Studio Code).&lt;/p&gt;&#xA;&lt;p&gt;As programmers, we spend most of our time editing code, so it&amp;rsquo;s worth investing&#xA;time mastering an editor that fits your needs. Here&amp;rsquo;s how you learn a new&#xA;editor:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shell Tools and Scripting</title>
+      <link>http://localhost:1313/2020/shell-tools/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/shell-tools/</guid>
+      <description>&lt;p&gt;In this lecture, we will present some of the basics of using bash as a scripting language along with a number of shell tools that cover several of the most common tasks that you will be constantly performing in the command line.&lt;/p&gt;&#xA;&lt;h1 id=&#34;shell-scripting&#34;&gt;Shell Scripting&lt;/h1&gt;&#xA;&lt;p&gt;So far we have seen how to execute commands in the shell and pipe them together.&#xA;However, in many scenarios you will want to perform a series of commands and make use of control flow expressions like conditionals or loops.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Course overview &#43; the shell</title>
+      <link>http://localhost:1313/2020/course-shell/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2020/course-shell/</guid>
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;&#xA;&lt;p&gt;As computer scientists, we know that computers are great at aiding in&#xA;repetitive tasks. However, far too often, we forget that this applies&#xA;just as much to our &lt;em&gt;use&lt;/em&gt; of the computer as it does to the computations&#xA;we want our programs to perform. We have a vast range of tools&#xA;available at our fingertips that enable us to be more productive and&#xA;solve more complex problems when working on any computer-related&#xA;problem. Yet many of us utilize only a small fraction of those tools; we&#xA;only know enough magical incantations by rote to get by, and blindly&#xA;copy-paste commands from the internet when we get stuck.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
