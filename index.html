@@ -84,18 +84,94 @@ impossibly complex.</p>
 <h1 id="schedule">Schedule</h1>
 <!--  Lecture: 35-225, 2pm--3pm<br> Office hours: 32-G9 lounge, 3pm--4pm (every day, right after lecture) -->
 <ul>
-{{ $lectures := where (where site.Pages "Section" "2020") ".Params.phony" "!=" true }}
-{{ range sort $lectures "Date" }}
-<li>
-<strong>{{ .Date.Format "1/02/06" }}</strong>:
-{{ if .Params.ready }}
-<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-{{ else }}
-{{ .Title }}{{ if .Params.noclass }} [no class]{{ end }}
-{{ end }}
-</li>
-{{ end }}
+    
+    
+      <li>
+        <strong>1/13/20</strong>:
+        
+          <a href="./mit-public/2020/course-overview--the-shell/">Course overview &#43; the shell</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/14/20</strong>:
+        
+          <a href="./mit-public/2020/shell-tools-and-scripting/">Shell Tools and Scripting</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/15/20</strong>:
+        
+          <a href="./mit-public/2020/editors-vim/">Editors (Vim)</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/16/20</strong>:
+        
+          <a href="./mit-public/2020/data-wrangling/">Data Wrangling</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/21/20</strong>:
+        
+          <a href="./mit-public/2020/command-line-environment/">Command-line Environment</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/22/20</strong>:
+        
+          <a href="./mit-public/2020/version-control-git/">Version Control (Git)</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/23/20</strong>:
+        
+          <a href="./mit-public/2020/debugging-and-profiling/">Debugging and Profiling</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/27/20</strong>:
+        
+          <a href="./mit-public/2020/metaprogramming/">Metaprogramming</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/28/20</strong>:
+        
+          <a href="./mit-public/2020/security-and-cryptography/">Security and Cryptography</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/29/20</strong>:
+        
+          <a href="./mit-public/2020/potpourri/">Potpourri</a>
+        
+      </li>
+    
+      <li>
+        <strong>1/30/20</strong>:
+        
+          2020 Lectures
+        
+      </li>
+    
+      <li>
+        <strong>1/30/20</strong>:
+        
+          <a href="./mit-public/2020/qa/">Q&amp;A</a>
+        
+      </li>
+    
 </ul>
+    
 <p>Video recordings of the lectures are available <a href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J">on YouTube</a>.</p>
 <h1 id="about-the-class">About the class</h1>
 <p><strong>Staff</strong>: This class is co-taught by <a href="https://www.anishathalye.com/">Anish</a>, <a href="https://thesquareplanet.com/">Jon</a>, and <a href="http://josejg.com/">Jose</a>.<br>

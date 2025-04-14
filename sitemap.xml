@@ -2,7 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/mit-public/2020/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/qa/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mit-public/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/potpourri/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/security-and-cryptography/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/metaprogramming/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/debugging-and-profiling/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/version-control-git/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/command-line-environment/</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/data-wrangling/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/editors-vim/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/shell-tools-and-scripting/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/2020/course-overview--the-shell/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/readme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/_license/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mit-public/_about/</loc>
   </url><url>
     <loc>http://localhost:1313/mit-public/years/</loc>
   </url>
